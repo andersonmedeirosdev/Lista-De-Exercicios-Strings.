@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "produtoString", "produtoStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projetoCidadesApp", "projetoCidadesApp\projetoCidadesApp.csproj", "{886EB472-CA7A-47FD-9F89-A047C921CB7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "impressaoPalavras", "impressaoPalavras\impressaoPalavras.csproj", "{00822974-B551-4CDD-987E-EF81F5FE59C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{886EB472-CA7A-47FD-9F89-A047C921CB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{886EB472-CA7A-47FD-9F89-A047C921CB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{886EB472-CA7A-47FD-9F89-A047C921CB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00822974-B551-4CDD-987E-EF81F5FE59C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00822974-B551-4CDD-987E-EF81F5FE59C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00822974-B551-4CDD-987E-EF81F5FE59C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00822974-B551-4CDD-987E-EF81F5FE59C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
