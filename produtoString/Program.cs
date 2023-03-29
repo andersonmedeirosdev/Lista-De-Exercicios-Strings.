@@ -30,7 +30,7 @@
 
             for (int j = 0; j < (numeros.Length / 2); j++)
             {
-                string limitarValores = new string (numeros.Substring(valorInicial, 5));
+                string limitarValores = numeros.Substring(valorInicial, 5);
                 int[] valoresInteiros = new int[limitarValores.Length];
 
                 for (int i = 0; i < limitarValores.Length; i++)
