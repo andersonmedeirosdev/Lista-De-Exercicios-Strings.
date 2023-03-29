@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contarStrings", "contarStrings\contarStrings.csproj", "{1BA1187A-9F5D-4C0A-92D7-8BF48C424BCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cifraDeCesarApp", "cifraDeCesarApp\cifraDeCesarApp.csproj", "{CE573B6F-CF09-41E0-8B36-D03AED0EEBED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1BA1187A-9F5D-4C0A-92D7-8BF48C424BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BA1187A-9F5D-4C0A-92D7-8BF48C424BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BA1187A-9F5D-4C0A-92D7-8BF48C424BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE573B6F-CF09-41E0-8B36-D03AED0EEBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE573B6F-CF09-41E0-8B36-D03AED0EEBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE573B6F-CF09-41E0-8B36-D03AED0EEBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE573B6F-CF09-41E0-8B36-D03AED0EEBED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
